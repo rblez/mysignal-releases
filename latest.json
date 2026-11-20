@@ -1,12 +1,20 @@
 {
-  "versionCode": 2,
-  "versionName": "0.1.1",
-  "notes": "Las hojas ya cierran bien, borrar mediciones deslizando, Super Isla de HyperOS y actualizaciones solas.",
+  "versionCode": 3,
+  "versionName": "0.1.2",
+  "notes": "Super Isla nueva, Monitor de red para avisarte cuando vuelve la cobertura o aparece la red que esperas, tutorial al empezar, «Copiar código» en la guía e iconos y letras del sistema.",
   "minSdk": 26,
   "apk": {
-    "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.1/MySignal-0.1.1.apk",
-    "sha256": "09368ed70d22446e7321c57a0836c278e7ffa9de21066ad4b6ed74f0d1b3507a",
-    "size": 2958160
+    "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.2/MySignal-0.1.2.apk",
+    "sha256": "48744f0184458a7c44b4c94852d7a06cd76263accac5459b663f1f307ba03a04",
+    "size": 2171431
   },
-  "patches": []
+  "patches": [
+    {
+      "fromVersionCode": 2,
+      "fromSha256": "09368ed70d22446e7321c57a0836c278e7ffa9de21066ad4b6ed74f0d1b3507a",
+      "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.2/MySignal-2-a-3.msdiff",
+      "sha256": "138a3b5e1df247ed64dfe06e2590f08d46f092bc2186e701342236410010c090",
+      "size": 536545
+    }
+  ]
 }
