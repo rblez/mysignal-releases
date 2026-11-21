@@ -1,20 +1,27 @@
 {
-  "versionCode": 3,
-  "versionName": "0.1.2",
-  "notes": "Super Isla nueva, Monitor de red para avisarte cuando vuelve la cobertura o aparece la red que esperas, tutorial al empezar, «Copiar código» en la guía e iconos y letras del sistema.",
+  "versionCode": 4,
+  "versionName": "0.1.3",
+  "notes": "Abrir BandMode marca el código solo. Super Isla con actualizaciones en vivo.",
   "minSdk": 26,
   "apk": {
-    "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.2/MySignal-0.1.2.apk",
-    "sha256": "48744f0184458a7c44b4c94852d7a06cd76263accac5459b663f1f307ba03a04",
-    "size": 2171431
+    "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.3/MySignal-0.1.3.apk",
+    "sha256": "ef4610c48c8b95707c59175446938d479b9f519251d95b057b69cb3f3558e527",
+    "size": 2173107
   },
   "patches": [
     {
       "fromVersionCode": 2,
       "fromSha256": "09368ed70d22446e7321c57a0836c278e7ffa9de21066ad4b6ed74f0d1b3507a",
-      "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.2/MySignal-2-a-3.msdiff",
-      "sha256": "138a3b5e1df247ed64dfe06e2590f08d46f092bc2186e701342236410010c090",
-      "size": 536545
+      "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.3/MySignal-2-a-4.msdiff",
+      "sha256": "2ca603b421262de153be395e7f52b337b71738a0e5e82d82be7fb56de4487eb4",
+      "size": 549085
+    },
+    {
+      "fromVersionCode": 3,
+      "fromSha256": "48744f0184458a7c44b4c94852d7a06cd76263accac5459b663f1f307ba03a04",
+      "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.3/MySignal-3-a-4.msdiff",
+      "sha256": "d23bd6b31c217a2d43e47ad9154b0dbe9f3fe6d061a4ba492043868f25e149c8",
+      "size": 432919
     }
   ]
 }
