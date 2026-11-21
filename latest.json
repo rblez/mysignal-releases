@@ -1,34 +1,41 @@
 {
-  "versionCode": 5,
-  "versionName": "0.1.4",
-  "notes": "Lugares: dónde estuviste, con qué torre, banda y señal, en un mapa de Cuba sin internet. · Arreglo: Abrir BandMode ahora abre el menú.",
+  "versionCode": 6,
+  "versionName": "0.1.5",
+  "notes": "Icono oficial en notificaciones y en la Super Isla.",
   "minSdk": 26,
   "apk": {
-    "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.4/MySignal-0.1.4.apk",
-    "sha256": "c9a42054b1b0f55b10d8bf2044ce0a69dd6dbf2fc32904dca59aca0c35c1644e",
-    "size": 3539276
+    "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.5/MySignal-0.1.5.apk",
+    "sha256": "ed9eac5d71522f9bd52d3c75f07f7c73e1ab38430ea20ca6930221610b90a5a2",
+    "size": 3539516
   },
   "patches": [
     {
       "fromVersionCode": 2,
       "fromSha256": "09368ed70d22446e7321c57a0836c278e7ffa9de21066ad4b6ed74f0d1b3507a",
-      "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.4/MySignal-2-a-5.msdiff",
-      "sha256": "dd71356303fb9cdb43feb07d012841e8bd04cfb8405f2619aa2556c914f0b804",
-      "size": 1882582
+      "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.5/MySignal-2-a-6.msdiff",
+      "sha256": "c602026ece6d9cd5d3ba2d567c9f93b6f15fbbdc12a450204d679e65a4915f12",
+      "size": 1883033
     },
     {
       "fromVersionCode": 3,
       "fromSha256": "48744f0184458a7c44b4c94852d7a06cd76263accac5459b663f1f307ba03a04",
-      "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.4/MySignal-3-a-5.msdiff",
-      "sha256": "48c38bfee5f761ecb33fd4fb3487f9db3c645331b34d0b7cdcf5c77434e195d0",
-      "size": 1790479
+      "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.5/MySignal-3-a-6.msdiff",
+      "sha256": "8b836498eac79df018870a94f32d52860bbc04a572af602061a4068cf27f48a2",
+      "size": 1798990
     },
     {
       "fromVersionCode": 4,
       "fromSha256": "ef4610c48c8b95707c59175446938d479b9f519251d95b057b69cb3f3558e527",
-      "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.4/MySignal-4-a-5.msdiff",
-      "sha256": "445e7d6e21171eddf2a143f9c26c6fe864089a769dde156f6a1c6a855f77cc39",
-      "size": 1772518
+      "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.5/MySignal-4-a-6.msdiff",
+      "sha256": "d97746e59d76206c640fea7bc6591bd6c5903bc348834af21e14ee9934378b70",
+      "size": 1781156
+    },
+    {
+      "fromVersionCode": 5,
+      "fromSha256": "c9a42054b1b0f55b10d8bf2044ce0a69dd6dbf2fc32904dca59aca0c35c1644e",
+      "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.5/MySignal-5-a-6.msdiff",
+      "sha256": "d0036bf3805a9a0eec179089a6655c29969b331f583d22aaca2331795cf4745e",
+      "size": 104769
     }
   ]
 }
