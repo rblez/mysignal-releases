@@ -1,55 +1,62 @@
 {
-  "versionCode": 8,
-  "versionName": "0.1.7",
-  "notes": "Saldo de Cubacel con todos los códigos, widgets en la pantalla de inicio y «Buscar señal». La Super Isla ya muestra el color de la señal.",
+  "versionCode": 9,
+  "versionName": "0.1.8",
+  "notes": "La isla ya no muestra emojis.",
   "minSdk": 26,
   "apk": {
-    "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.7/MySignal-0.1.7.apk",
-    "sha256": "d2fe87c7d570322318ec36fe33b72a0cc8e43ac16c44c1acd4ea423ff7cc5130",
+    "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.8/MySignal-0.1.8.apk",
+    "sha256": "d167283d07794d0a1e025f92a46623d9fa5ef97573f390f567686a8a485e1e89",
     "size": 4004890
   },
   "patches": [
     {
       "fromVersionCode": 2,
       "fromSha256": "09368ed70d22446e7321c57a0836c278e7ffa9de21066ad4b6ed74f0d1b3507a",
-      "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.7/MySignal-2-a-8.msdiff",
-      "sha256": "56b98db55998770b33c9e8161cf14226d4c2226b7907b6e21e0a7431561535bf",
-      "size": 2210990
+      "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.8/MySignal-2-a-9.msdiff",
+      "sha256": "7cd4099bacbfe962a35a8252464a7d87632bdf9e222486f74e897732b26247f5",
+      "size": 2210239
     },
     {
       "fromVersionCode": 3,
       "fromSha256": "48744f0184458a7c44b4c94852d7a06cd76263accac5459b663f1f307ba03a04",
-      "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.7/MySignal-3-a-8.msdiff",
-      "sha256": "265c8f14472d358304062cc0b8e7a90a24174842f9d1f8120cb6f0249c352caa",
-      "size": 2157094
+      "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.8/MySignal-3-a-9.msdiff",
+      "sha256": "214970bc46ca8010048bc7ffdfa36b8312e3f1ec6e61125b26bdca873fd7f3d4",
+      "size": 2157184
     },
     {
       "fromVersionCode": 4,
       "fromSha256": "ef4610c48c8b95707c59175446938d479b9f519251d95b057b69cb3f3558e527",
-      "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.7/MySignal-4-a-8.msdiff",
-      "sha256": "7fdb710c97be8b40e18e01f281f43b048571c8da19cc2f85a94fa6494be4f8a9",
-      "size": 2149539
+      "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.8/MySignal-4-a-9.msdiff",
+      "sha256": "20a6cfeae0ce1d449755e76febd66a84d53ce1768c0388dc56e0e5d7f4cadbcd",
+      "size": 2149454
     },
     {
       "fromVersionCode": 5,
       "fromSha256": "c9a42054b1b0f55b10d8bf2044ce0a69dd6dbf2fc32904dca59aca0c35c1644e",
-      "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.7/MySignal-5-a-8.msdiff",
-      "sha256": "a234cf8c40e90be96c72cefa739cbbbda79b5418df181f3bbb3ab8928f71a395",
-      "size": 852578
+      "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.8/MySignal-5-a-9.msdiff",
+      "sha256": "1c6f01120332016520d686672bc0fa03c1af9cf0031cfeadd085a0fd4456885e",
+      "size": 853380
     },
     {
       "fromVersionCode": 6,
       "fromSha256": "ed9eac5d71522f9bd52d3c75f07f7c73e1ab38430ea20ca6930221610b90a5a2",
-      "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.7/MySignal-6-a-8.msdiff",
-      "sha256": "a7ef0fff0e76d8fe39acf8a2adcd091d3740ed989460f0250848f29b8f3f3822",
-      "size": 852230
+      "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.8/MySignal-6-a-9.msdiff",
+      "sha256": "10d5ee2f1087eb0902d10cabdee0a8eba4b33d7a9426e94779a08afae2b658f2",
+      "size": 852605
     },
     {
       "fromVersionCode": 7,
       "fromSha256": "454aaf7704030e55bcd542cf3a54cf16a52aa76d8eb8eedcf4d77be1650ed2d4",
-      "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.7/MySignal-7-a-8.msdiff",
-      "sha256": "bc69ef56a0da491b7802d26f40318013f99aa208c75803aa8f1ae656bf458417",
-      "size": 843955
+      "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.8/MySignal-7-a-9.msdiff",
+      "sha256": "1e735d45041385cb6afefd4cfbb9a91e762c6ec4bc63981c3c6b80a58e95aff0",
+      "size": 844916
+    },
+    {
+      "fromVersionCode": 8,
+      "fromSha256": "d2fe87c7d570322318ec36fe33b72a0cc8e43ac16c44c1acd4ea423ff7cc5130",
+      "url": "https://github.com/rblez/mysignal-releases/releases/download/v0.1.8/MySignal-8-a-9.msdiff",
+      "sha256": "47a8b12defc1dd604e4a4055caa30c71f352a40fe715223798a6c4f94c0bbf5d",
+      "size": 342663
     }
   ]
 }
